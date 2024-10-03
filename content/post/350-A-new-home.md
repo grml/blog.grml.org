@@ -12,9 +12,7 @@ For various reasons we have moved away from our old blog hosting on supersized.o
   
 While old URLs continue to work, content on the old site won't be updated and may cease to work at some point.  
   
-If you have subscribed our blog feed, please switch to these new feeds:  
+If you have subscribed our blog feed, please switch to this new feed:
 * RSS 2\.0 Feed: <http://blog.grml.org/feeds/index.rss2>
-* Atom Feed: [http://blog.grml.org/feeds/atom10\.xml](http://blog.grml.org/feeds/atom10.xml)
-* Comments Feeds: <http://blog.grml.org/feeds/comments.rss2>
 
 Also consider subscribing to [Planet Grml](http://planet.grml.org/), an aggregator of all individual Grml developer blogs, which also includes the Grml development blog.  
