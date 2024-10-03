@@ -34,10 +34,10 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
 
   .mainandnav { display: flex; flex-flow: row wrap; column-gap: 1em; }
   .mainandnav main { width: auto; flex: 1 100%; }
-  .mainandnav nav { padding-top: 2em; flex: 1 auto; }
+  .mainandnav aside { padding-top: 2em; flex: 1 auto; }
   @media all and (min-width: 800px) {
     .mainandnav main { flex: 14 0; order: 1; }
-    .mainandnav nav { order: 2; }
+    .mainandnav aside { order: 2; }
   }
 
   main { padding: 0 1em 0 1em; }
@@ -64,5 +64,6 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
   main ul.pagination { text-align: center; }
   main ul.pagination li { display: inline; }
 
-  nav h2 { font-weight: bold; color: #999; line-height:2em; }
+  aside h2 { font-weight: bold; color: #999; line-height:2em; }
+  aside nav { padding-bottom: 2em; }
 }

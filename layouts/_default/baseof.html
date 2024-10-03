@@ -22,23 +22,25 @@
       <main>
         {{ block "main" . }}{{ end }}
       </main>
-      <nav>
-        {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+      <aside>
         <h2>Archives</h2>
-        <ul>
-          <li><a href="{{ relref . "archive" }}">All posts</a></li>
-        </ul>
+        {{ partial "menu.html" (dict "menuID" "archives" "page" .) }}
+
+        <h2>Categories</h2>
+        {{ partial "menu.html" (dict "menuID" "categories" "page" .) }}
 
         <h2>Subscribe</h2>
-        {{ with .OutputFormats.Get "RSS" -}}
-          <a href="{{ .Permalink | safeHTML }}"
-            onclick="(function(btn){var z=document.createElement('script');document.subtomeBtn=btn;z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})(this); return false;"
-            value="Subscribe"
-            data-subtome-feeds="{{ .Permalink | safeHTML }}">
-            <img src="https://blog.grml.org/templates/2k11/img/subtome.png" alt="XML" style="border: 0px">
-          </a>
-        {{- end }}
-      </nav>
+        <nav>
+          {{ with .OutputFormats.Get "RSS" -}}
+            <a href="{{ .Permalink | safeHTML }}"
+              onclick="(function(btn){var z=document.createElement('script');document.subtomeBtn=btn;z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})(this); return false;"
+              value="Subscribe"
+              data-subtome-feeds="{{ .Permalink | safeHTML }}">
+              <img src="https://blog.grml.org/templates/2k11/img/subtome.png" alt="XML" style="border: 0px">
+            </a>
+          {{- end }}
+        </nav>
+      </aside>
     </div>
     <footer>
       {{ partial "footer.html" . }}
