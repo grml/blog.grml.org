@@ -17,5 +17,32 @@ pagination:
 taxonomies:
   category: categories
 
-disableKinds:
-- term
+mediaTypes:
+  "application/atom":
+    suffixes:
+      - "xml"
+  "application/rss+xml":
+    suffixes:
+      - "rss2"
+
+outputFormats:
+  Atom:
+    mediaType: application/atom
+    baseName: "atom"
+    path: feeds/
+    isPlainText: false
+  Atom10:
+    mediaType: application/atom
+    baseName: "atom10"
+    path: feeds/
+    isPlainText: false
+  RSS:
+    mediaType: "application/rss+xml"
+    path: feeds/
+    noUgly: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - Atom

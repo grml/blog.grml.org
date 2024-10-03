@@ -9,9 +9,9 @@
   <meta name="Language" content="english">
   <link rel="icon" href="/favicon.png" type="image/png">
   {{ partialCached "head/css.html" . }}
-  {{ with .OutputFormats.Get "rss" -}}
+  {{ with .OutputFormats.Get "RSS" -}}
     {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
-  {{ end }}
+  {{- end }}
 </head>
 <body>
   <div class="container">
@@ -22,7 +22,23 @@
       <main>
         {{ block "main" . }}{{ end }}
       </main>
-      {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+      <nav>
+        {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+        <h2>Archives</h2>
+        <ul>
+          <li><a href="{{ relref . "archive" }}">All posts</a></li>
+        </ul>
+
+        <h2>Subscribe</h2>
+        {{ with .OutputFormats.Get "RSS" -}}
+          <a href="{{ .Permalink | safeHTML }}"
+            onclick="(function(btn){var z=document.createElement('script');document.subtomeBtn=btn;z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})(this); return false;"
+            value="Subscribe"
+            data-subtome-feeds="{{ .Permalink | safeHTML }}">
+            <img src="https://blog.grml.org/templates/2k11/img/subtome.png" alt="XML" style="border: 0px">
+          </a>
+        {{- end }}
+      </nav>
     </div>
     <footer>
       {{ partial "footer.html" . }}
