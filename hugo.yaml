@@ -23,12 +23,22 @@ mediaTypes:
       - "rss2"
 
 outputFormats:
-  RSS:
+  rss:
     mediaType: "application/rss+xml"
     path: feeds/
     noUgly: false
 
 outputs:
   home:
-    - HTML
-    - RSS
+    - html
+    - rss
+  page:
+    - html
+  rss:
+    - rss
+  section:
+    - html
+  taxonomy:
+    - html
+  term:
+    - html

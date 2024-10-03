@@ -1,10 +1,19 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Content }}
-
-    <a href="{{ .RelPermalink }}">read more</a>
-  {{ end }}
+  <section>
+    {{ range (where .Site.RegularPages "Section" .Params.archive_page_type).GroupByDate "2006" }}
+      <h1>{{ .Key }}</h1>
+      <ul>
+        {{ range .Pages }}
+          {{ if (ne .Params.hidden true) }}
+            <li>
+              <span>{{ .Date.Format "Jan 02" }}</span> &mdash;
+              <a href="{{ .RelPermalink }}">
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    {{ end }}
+  </section>
 {{ end }}

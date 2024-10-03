@@ -1,6 +1,5 @@
 ---
 title: "All posts"
-layout: archive
 slug: archive
 type: page
 menus: archives
