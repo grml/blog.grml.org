@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+  <meta name="Author" content="the grml team [www.grml.org/team/]">
+  <meta name="Robots" content="index,follow">
+  <meta name="Language" content="english">
+  <link rel="icon" href="/favicon.png" type="image/png">
+  {{ partialCached "head/css.html" . }}
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+  {{ end }}
+</head>
+<body>
+  <div class="container">
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+    <div class="mainandnav">
+      <main>
+        {{ block "main" . }}{{ end }}
+      </main>
+      {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+    </div>
+    <footer>
+      {{ partial "footer.html" . }}
+    </footer>
+  </div>
+</body>
+</html>

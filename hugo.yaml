@@ -1,0 +1,21 @@
+baseurl: "https://blog.grml.org"
+title: "Grml Blog"
+languageCode: "en-us"
+defaultContentLanguage: "en"
+cleanDestinationDir: true
+# for backwards compatibility
+uglyURLs: true
+disablePathToLower: true
+
+permalinks:
+  post: "/archives/:slug"
+  page: "/:slug/"
+
+pagination:
+  pagerSize: 15
+
+taxonomies:
+  category: categories
+
+disableKinds:
+- term

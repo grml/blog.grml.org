@@ -1,0 +1,61 @@
+/*
+Copyright (c) 2011, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.com/yui/license.html
+version: 2.9.0
+*/
+html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,select,p,blockquote,th,td{margin:0;padding:0}table{border-collapse:collapse;border-spacing:0}fieldset,img{border:0}address,button,caption,cite,code,dfn,em,input,optgroup,option,select,strong,textarea,th,var{font:inherit}del,ins{text-decoration:none}li{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}q:before,q:after{content:''}abbr,acronym{border:0;font-variant:normal}sup{vertical-align:baseline}sub{vertical-align:baseline}legend{color:#000}
+
+/* This stylesheet was created by Michael Prokop for grml.org                  */
+/* Design was inspired by TeZeuZ:                                              */
+/* http://www.oswd.org/user/profile/id/6272                                    */
+/* http://alumnos.elo.utfsm.cl/~osrehe - thx!                                  */
+
+@media all {
+  html {background-color: #FFDA62; height: 100%; font-size: 10pt; }
+  body { font-family: verdana, tahoma, helvetica, arial, sans-serif; background-color:#FFDA62; margin: 0; padding: 0; height:100%; }
+  div.container { width: 80%; text-align: left; background-color:#FFFFFF; margin: 0px auto 0px auto; border-width: 0 1px 0 1px; border-color: #E5E5E5; border-style: solid; overflow: auto; height: 100%; }
+  cite {font-size: 80%}
+
+  div.copyright { font-size: 80%; color: #666; padding: 1em }
+  div.copyright a { color: navy; }
+
+  /* ul {font-size:70%; padding-bottom: 0.3em; }
+  li {list-style: circle; margin-left: 2em;}
+  ol {font-size:70%} */
+  b,strong { font-weight: bold; }
+  i,em { font-style: italic; }
+  main time { text-align: left; line-height: 0.85em; color: #999; margin: 10px 0 0 0; text-transform: lowercase; display: block; font-weight: bold; padding: 10px 12px 0 0; }
+
+  header { font-size: 10pt; height: 5em; padding-top: 2.7em; padding-left: 1.1em; }
+  header a { color: navy; text-decoration: none; }
+  header h1 { color: navy; font-size: 240%; line-height: 100%; font-weight: bold; }
+  header h2 { color: navy; font-size: 110%; line-height: 130%; font-weight: bold; }
+  header #logo { float: left; }
+
+  .mainandnav { display: flex; width: 100%; margin: 0; }
+  .mainandnav main { width: 85%; }
+  .mainandnav nav { width: 15%; }
+
+  main { padding: 10px; }
+
+  main h1 {color:navy; font-size: 200%; font-weight:bold; padding-top: 1.5em; padding-bottom: 0.2em; }
+  main h2, main h2 a {color:black; font-size: 120%; font-weight:bold; padding-top: 0.5em; padding-bottom: 0.2em; text-decoration: none; }
+  main h3 {color:black; font-size:115%; font-weight:bold; padding-top: 0.5em; padding-bottom:0.3em; border-bottom-style:solid; border-bottom-width:1px; border-bottom-color:#CFB8B8;
+	margin-bottom:0em}
+  main h4 {color:black; font-size:105%; font-weight:bold}
+
+  main p {text-align:justify; color:black; line-height: 1.5em; padding-bottom: 0.4em;}
+
+  main p a {color:#C70036; text-decoration: underline}
+  main p a.current {color:#999999}
+  main p a:hover {text-decoration: underline}
+  main p a.plain {text-decoration: none}
+  main p a.plain:hover {text-decoration: underline}
+  main p a.smalllink {font-size: 80%}
+
+  main .postlist-item { padding-bottom: 2em; }
+
+  main ul.pagination { text-align: center; }
+  main ul.pagination li { display: inline; }
+}
