@@ -1,6 +1,6 @@
 {{ define "main" }}
   <section>
-    {{ range (where .Site.RegularPages "Section" .Params.archive_page_type).GroupByDate "2006" }}
+    {{ range .Pages.GroupByDate "2006" }}
       <h1>{{ .Key }}</h1>
       <ul>
         {{ range .Pages }}
