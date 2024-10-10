@@ -27,5 +27,7 @@ Last wednesday I uploaded the new grml develrelease 0\.7\-5\. Quoting the change
 * updated packages to debian-pool by 2006-06-21
 ```
 Now I've finished work on the ipw3495 stuff: ipw3945\-ucode and ipw3945d are available in the grml repository. The ipw3495 module works out\-of\-the\-box on grml now.
+
 Running some more tests with different kernel configurations showed that swsusp2 very probably won't find its way to the grml\-kernel. On the other hand the tests with SMP were very good, so we might have SMP\-support in grml 0\.8\. Stay tuned. :\-)
+
 The TODO list for the the current build of 2\.6\.17\-grml is also very short now: only ivtv and linux\-wlan\-ng are missing. I'll package truecrypt, tpm\-emulator and grml\-kerneladdons for 2\.6\.17\-grml as soon as the final build of 2\.6\.17\-grml is available.

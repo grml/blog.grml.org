@@ -9,7 +9,10 @@ title: 'new grml-develrelease: 0.8-2'
 
 ---
 Hurray, we have a new develrelease! grml 0\.8\-2 is available for beta\-testers and grml\-developers.
-[![grml 0.8-2](/images/gkrellShoot_09-24-06_200208.serendipityThumb.png)](/images/gkrellShoot_09-24-06_200208.png)Quoting the main changelog:
+
+[![grml 0.8-2](/images/gkrellShoot_09-24-06_200208.serendipityThumb.png)](/images/gkrellShoot_09-24-06_200208.png)
+
+Quoting the main changelog:
 
 ```
   * Features brand new kernel 2.6.18-grml

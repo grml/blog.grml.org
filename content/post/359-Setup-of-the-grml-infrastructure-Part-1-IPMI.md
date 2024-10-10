@@ -41,5 +41,7 @@ ipmitool -I lan -H 192.168.1.6 -U jimmy chassis power off
 ipmitool sensor get "BB Ambient Temp"
 ipmitool sensor get "CPU Fan"
 ```
+
 The first one checks the power status of the server, e.g. on or off and the second one powers the server off. The last two read some sensor data. Read the man page of ipmitool to find out more ;\-)
+
 There's a lot more about IPMI but this should help you to get started.

@@ -10,7 +10,9 @@ title: grml-kernel with grml-logo
 ---
 Elimar Riesebieter contributed a grml\-logo for the grml\-kernel (thanks!):
 
-[![](https://grml.org/pics/grml-logo-boot_small.jpg)](https://grml.org/pics/grml-logo-boot.png)I also updated the patch\-list:
+[![](https://grml.org/pics/grml-logo-boot_small.jpg)](https://grml.org/pics/grml-logo-boot.png)
+
+I also updated the patch\-list:
 
 ```
 1900_lowmem-reserve-oops.patch  
