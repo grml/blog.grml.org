@@ -13,4 +13,4 @@ We're glad about such a wonderful community and are celebrating this with a smal
 
 And now for another 20 years? 🤓 
 
-[![*](/images/grml_20th_birthday.jpg)](https://blog.grml.org/uploads/grml_20th_birthday.png)
+[![*](/images/grml_20th_birthday.thumb.png)](/images/grml_20th_birthday.png)
