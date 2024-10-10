@@ -8,7 +8,7 @@ slug: 254-new-develrelease-grml-1.0-3
 title: 'new develrelease: grml 1.0-3'
 
 ---
-After the [Froscon event](http://blog.grml.org/archives/259-grml-at-FrOSCon-2007-and-Linux-User-Group-Moenchengladbach.html) took place we have a new develrelease. Quoting the main changelog for the new develreleases:
+After the [Froscon event]({{< relref "251-grml-at-FrOSCon-2007-and-Linux-User-Group-Moenchengladbach" >}}) took place we have a new develrelease. Quoting the main changelog for the new develreleases:
 
 ```
   * several updated configuration files, bugfixes and

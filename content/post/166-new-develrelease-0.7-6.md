@@ -8,7 +8,7 @@ slug: 166-new-develrelease-0.7-6
 title: 'new develrelease: 0.7-6'
 
 ---
-A new develrelease is available. Quoting the main changelog from my mail to [beta\-testers](http://grml.org/beta-tester/) and developers:
+A new develrelease is available. Quoting the main changelog from my mail to [beta\-testers](https://grml.org/beta-tester/) and developers:
 
 ```
 * includes the final build of 2.6.17-grml (based on 2.6.17.7):

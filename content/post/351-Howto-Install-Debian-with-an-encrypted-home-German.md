@@ -8,4 +8,4 @@ slug: 351-Howto-Install-Debian-with-an-encrypted-home-German
 title: 'Howto: Install Debian with an encrypted /home (German)'
 
 ---
-Ever wanted to install Debian with an encrypted home directory but you didn't get along with the Debian installer? Grml to the rescue! Oliver Herold of F!XMBR wrote a nice [article](http://www.fixmbr.de/debian-installation-und-verschluesselung/) (in German) about using [Grml](http://grml.org/) to install [Debian](http://debian.org/).
+Ever wanted to install Debian with an encrypted home directory but you didn't get along with the Debian installer? Grml to the rescue! Oliver Herold of F!XMBR wrote a nice [article](http://www.fixmbr.de/debian-installation-und-verschluesselung/) (in German) about using [Grml](https://grml.org/) to install [Debian](http://debian.org/).

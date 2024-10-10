@@ -9,4 +9,4 @@ title: packaged aamath
 
 ---
 [aamath](http://fuse.superglue.se/aamath/) is a program that reads mathematical expressions in infix notation and renders them as ASCII art. It may be useful to send mathematics through text\-only media, such as e\-mail or newsgroups.
-The Debian package is \- as usual \- available from [the grml repository](http://grml.org/repos/). Thanks for pointing to aamath on [the grml\-user mailinglist](http://grml.org/mailinglist/), Mark!
+The Debian package is \- as usual \- available from [the grml repository](https://grml.org/repos/). Thanks for pointing to aamath on [the grml\-user mailinglist](https://grml.org/mailinglist/), Mark!

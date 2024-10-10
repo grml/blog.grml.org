@@ -15,7 +15,7 @@ version 2011\.05, code\-named "Just Mari"!
 
 For detailed information about the changes between 2010\.12 and
 2011\.05 have a look at:
- [http://grml.org/changelogs/README\-grml\-2011\.05\-rc1/](http://grml.org/changelogs/README-grml-2011.05-rc1/)
+ [https://grml.org/changelogs/README\-grml\-2011\.05\-rc1/](https://grml.org/changelogs/README-grml-2011.05-rc1/)
   
   
 

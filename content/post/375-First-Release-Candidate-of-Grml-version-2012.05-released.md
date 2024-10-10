@@ -10,7 +10,7 @@ title: First Release Candidate of Grml version 2012.05 released
 ---
 We are proud to announce the first release candidate of the upcoming version 2012\.05, code\-named 'Ponyhof'!
 
-For detailed information about the changes between 2011\.12 and 2012\.05 have a look at the [official release announcement](http://grml.org/changelogs/README-grml-2012.05-rc1/).
+For detailed information about the changes between 2011\.12 and 2012\.05 have a look at the [official release announcement](https://grml.org/changelogs/README-grml-2012.05-rc1/).
 
 Several tools that have been reported to be missing on the downsized 2011\.12 release have been re\-added. This release also brings the grml\-small flavour back to life.
 

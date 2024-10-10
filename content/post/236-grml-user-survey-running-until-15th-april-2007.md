@@ -8,4 +8,4 @@ slug: 236-grml-user-survey-running-until-15th-april-2007
 title: grml user survey running until 15th april 2007
 
 ---
-Last chance to [take part in the grml user survey](http://grml.org/user-survey/grml.txt). It's running until 15th april 2007\. Please help us improving grml!
+Last chance to [take part in the grml user survey](https://grml.org/user-survey/grml.txt). It's running until 15th april 2007\. Please help us improving grml!

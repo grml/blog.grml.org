@@ -8,4 +8,4 @@ slug: 87-packaged-minised
 title: packaged minised
 
 ---
-I just packaged [minised](http://www.exactcode.de/oss/minised/) (a smaller, cheaper, faster SED implementation), as usual it's in the [grml\-repos](http://grml.org/repos/).
+I just packaged [minised](http://www.exactcode.de/oss/minised/) (a smaller, cheaper, faster SED implementation), as usual it's in the [grml\-repos](https://grml.org/repos/).

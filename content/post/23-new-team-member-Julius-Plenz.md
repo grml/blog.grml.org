@@ -8,4 +8,4 @@ slug: 23-new-team-member-Julius-Plenz
 title: 'new team member: Julius Plenz'
 
 ---
-Julius Plenz joined [the grml\-team](http://grml.org/team/). Welcome, Julius!
+Julius Plenz joined [the grml\-team](https://grml.org/team/). Welcome, Julius!

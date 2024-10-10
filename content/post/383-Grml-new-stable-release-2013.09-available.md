@@ -12,8 +12,8 @@ We just released Grml 2013\.09 \- Hefeknuddler.
 
 This Grml release provides fresh software packages after the Debian stable release (AKA wheezy) has been released. As usual it also incorporates up2date hardware support and fixes known bugs from the previous Grml release.
 
-More information is available in [the release notes of Grml 2013\.09](http://grml.org/changelogs/README-grml-2013.09/).
+More information is available in [the release notes of Grml 2013\.09](https://grml.org/changelogs/README-grml-2013.09/).
 
-[Grab the latest Grml ISO(s)](http://grml.org/download/) and spread the word!
+[Grab the latest Grml ISO(s)](https://grml.org/download/) and spread the word!
 
 Thanks everyone and happy grml\-ing!

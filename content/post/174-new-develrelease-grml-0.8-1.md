@@ -8,7 +8,7 @@ slug: 174-new-develrelease-grml-0.8-1
 title: 'new develrelease: grml 0.8-1'
 
 ---
-I just uploaded a new develrelease for [beta\-testers](http://grml.org/beta-tester/) and grml\-devs. All the mounting\-stuff as discussed on the [grml\-user mailinglist](http://grml.org/mailinglist/) has been implemented. Quoting the main part of the Changelog:
+I just uploaded a new develrelease for [beta\-testers](https://grml.org/beta-tester/) and grml\-devs. All the mounting\-stuff as discussed on the [grml\-user mailinglist](https://grml.org/mailinglist/) has been implemented. Quoting the main part of the Changelog:
 
 ```
 * Fixed the issues of grml 0.8 mentioned on

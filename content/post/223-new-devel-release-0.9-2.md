@@ -8,7 +8,7 @@ slug: 223-new-devel-release-0.9-2
 title: 'new devel release: 0.9-2'
 
 ---
-We have a new develrelease. grml 0\.9\-2 is available for [beta\-testers](http://grml.org/beta-tester/) and grml\-developers.
+We have a new develrelease. grml 0\.9\-2 is available for [beta\-testers](https://grml.org/beta-tester/) and grml\-developers.
 Quoting the main changelog:
 
 ```
@@ -22,7 +22,7 @@ Quoting the main changelog:
     in grml-rebuildfstab and grml-scanpartitions
   * extended zsh configuration
   * big update and rewrite of zsh-lovers, thanks to Christian Schneider:
-    http://blog.grml.org/archives/229-update-of-zsh-lovers-in-asciidoc-format.html
+    {{< relref "221-update-of-zsh-lovers-in-asciidoc-format" >}}
   * added script gsuggest.pl: google suggest - ask google for
     keyword suggestions
   * Packages removed since 0.9 (excluding lib* and 2.6.18-grml):

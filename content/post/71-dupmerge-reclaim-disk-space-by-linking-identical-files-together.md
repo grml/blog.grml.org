@@ -14,4 +14,4 @@ I just packaged dupmerge 1\.5:
 
 <http://sourceforge.net/projects/dupmerge/>
 
-As usual you can find the package in [the grml\-repos](http://grml.org/repos/). Feedback welcome.
+As usual you can find the package in [the grml\-repos](https://grml.org/repos/). Feedback welcome.

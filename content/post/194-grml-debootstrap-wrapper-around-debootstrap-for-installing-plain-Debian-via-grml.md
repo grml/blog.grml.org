@@ -23,4 +23,4 @@ I usually install plain Debian systems via debootstrap, because it's simple, fas
   A plain and base Debian system will be installed on the given
   device then. Customization of this process is possible as well.
 ```
-Installation of a plain and base Debian etch system is pretty fast and easy this way. The first public version of grml\-debootstrap is available in [the grml repository](http://grml.org/repos/). Just apt\-get it when running the [grml live\-cd](http://grml.org/). As usual: [feedback is welcome](http://grml.org/contact/).
+Installation of a plain and base Debian etch system is pretty fast and easy this way. The first public version of grml\-debootstrap is available in [the grml repository](https://grml.org/repos/). Just apt\-get it when running the [grml live\-cd](https://grml.org/). As usual: [feedback is welcome](https://grml.org/contact/).

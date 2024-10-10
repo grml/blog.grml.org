@@ -23,6 +23,6 @@ We have a new develrelease. A lot of work took place. Quoting main changelog of 
 * grml\-postfix: reworked, now executing 'dpkg\-reconfigure postfix'
 * grml\-autoconfig interface: read in already set values so the current configuration is visible to the user
 * grml2hd: added support for setting hostname through script 'grml\-hostname'
-* [reworked grml2hd\-utils](http://blog.grml.org/archives/154-reworked-grml2hd-utils,-improved-grml2hd.html)
+* [reworked grml2hd\-utils]({{< relref "149-reworked-grml2hd-utils,-improved-grml2hd" >}})
 * grml\-x completion: check for present window\-managers and don't use a static list
 * added window manager fvwm\-crystal: we have to tune it a little bit (reduce size, adjust wallpaper, keybindings), but it definitely rocks! Give it a try and also take a look at [the keyboard bindings](http://linux.net.pl/~harnir/fvwm-crystal/doc/Keyboard%20bindings.txt)

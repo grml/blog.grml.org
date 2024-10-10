@@ -10,7 +10,7 @@ title: Remastering Grml 2011.12 will be as easy as never before
 ---
 For the final release of Grml 2011\.12 we will no longer ship the so called "release\-chroots" \- and this will not make it harder for you to remaster, but only easier!  
   
-[grml\-live](http://grml.org/grml-live/), the build tool for Grml, has gained a new feature: it can now **extract ISOs** and use their contents as the base for your remastering needs. This feature will be released with the next grml\-live release, but it's available today in [grml\-live git](https://github.com/grml/grml-live).  
+[grml\-live](https://grml.org/grml-live/), the build tool for Grml, has gained a new feature: it can now **extract ISOs** and use their contents as the base for your remastering needs. This feature will be released with the next grml\-live release, but it's available today in [grml\-live git](https://github.com/grml/grml-live).  
   
 **How you'd use this:**  
   

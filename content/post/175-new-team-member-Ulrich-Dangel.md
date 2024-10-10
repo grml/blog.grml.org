@@ -8,4 +8,4 @@ slug: 175-new-team-member-Ulrich-Dangel
 title: 'new team-member: Ulrich Dangel'
 
 ---
-We have a new [team\-member](http://grml.org/team/): Ulrich 'schula' Dangel. Welcome in the team, Ulrich!
+We have a new [team\-member](https://grml.org/team/): Ulrich 'schula' Dangel. Welcome in the team, Ulrich!

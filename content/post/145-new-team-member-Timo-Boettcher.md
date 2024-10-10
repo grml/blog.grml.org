@@ -8,4 +8,4 @@ slug: 145-new-team-member-Timo-Boettcher
 title: 'new team member: Timo Boettcher'
 
 ---
-Timo 'Spida' Boettcher joined [the grml\-team](http://grml.org/team/). He is known as the bug\-hunter \#1\. :\-)
+Timo 'Spida' Boettcher joined [the grml\-team](https://grml.org/team/). He is known as the bug\-hunter \#1\. :\-)

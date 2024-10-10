@@ -8,4 +8,4 @@ slug: 263-New-team-member-Alexander-Steinboeck
 title: "New team member: Alexander Steinb\xF6ck"
 
 ---
-Alexander 'z3ttacht' Steinböck joined [the grml\-team](http://grml.org/team/). Alexander contributed several patches (especially regarding configuration and documentation) over the last few weeks. Welcome in the grml team, Alexander!
+Alexander 'z3ttacht' Steinböck joined [the grml\-team](https://grml.org/team/). Alexander contributed several patches (especially regarding configuration and documentation) over the last few weeks. Welcome in the grml team, Alexander!

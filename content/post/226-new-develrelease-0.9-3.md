@@ -8,7 +8,7 @@ slug: 226-new-develrelease-0.9-3
 title: 'new develrelease: 0.9-3'
 
 ---
-We have a new develrelease. grml 0\.9\-3 is available for [beta\-testers](http://grml.org/beta-tester/) and grml\-developers.
+We have a new develrelease. grml 0\.9\-3 is available for [beta\-testers](https://grml.org/beta-tester/) and grml\-developers.
 Quoting the main changelog:
 
 ```
@@ -20,7 +20,7 @@ Quoting the main changelog:
     be resolved now - if you notice any further problems regarding
     utf8/language/... please report them!
   * grml2hd: support for grub and use of UUID by default
-    http://blog.grml.org/archives/233-grml2hd-supports-grub-and-rootUUID.html
+    {{< relref "225-grml2hd-supports-grub-and-rootUUID" >}}
     Notice: the grub code is new, there *might* be bugs present
     even though I tested it carefully, so don't use it on your
     productive environment unless you really want to. :)

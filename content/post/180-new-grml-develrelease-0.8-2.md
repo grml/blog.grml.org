@@ -25,7 +25,7 @@ Hurray, we have a new develrelease! grml 0\.8\-2 is available for beta\-testers 
     instead of /dev/hdb3 or /dev/hdb. (Thanks for idea and code-base
     goes to Alexander Bernauer!)
   * Unicode support!
-    http://blog.grml.org/archives/185-basic-unicode-support-for-grml.html
+    {{< relref "178-basic-unicode-support-for-grml" >}}
     What does this mean? You can use something like 'grml
     lang=at-utf8' to set environment variable for unicode.
     Just use "lang=$YOURLANGUAGE-utf8" to use this feature.

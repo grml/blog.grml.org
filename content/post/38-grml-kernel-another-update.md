@@ -32,4 +32,4 @@ tty-locking-fixes9.patch
 vesafb-tng-0.9-rc6-2.6.11-rc1.patch
 ```
 
-The kernel and several modules are [available online](http://dufo.tugraz.at/~prokop/grml-kernel/). Please [report any problems](http://grml.org/contact/) you notice!
+The kernel and several modules are [available online](http://dufo.tugraz.at/~prokop/grml-kernel/). Please [report any problems](https://grml.org/contact/) you notice!

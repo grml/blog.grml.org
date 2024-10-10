@@ -12,8 +12,8 @@ We just released Grml 2013\.02 \- Grumpy Grinch.
 
 This release brings the Grml tools towards the upcoming Debian stable release (AKA wheezy), provides up2date hardware support and fixes known bugs from the previous Grml release.
 
-More information is available in the [release notes of Grml 2013\.02](http://grml.org/changelogs/README-grml-2013.02/).
+More information is available in the [release notes of Grml 2013\.02](https://grml.org/changelogs/README-grml-2013.02/).
 
-[Grab the latest Grml ISO(s)](http://grml.org/download/) and spread the word!
+[Grab the latest Grml ISO(s)](https://grml.org/download/) and spread the word!
 Thanks everyone involved and happy grml\-ing!
 

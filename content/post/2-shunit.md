@@ -9,4 +9,4 @@ title: shunit
 
 ---
 Today I stumbled upon [shunit](http://shunit.sourceforge.net/), 
-a Unit Testing Framework for the Bourne Family of Shells. I created a .deb which can be found in [the grml\-repository](http://grml.org/repos/).
+a Unit Testing Framework for the Bourne Family of Shells. I created a .deb which can be found in [the grml\-repository](https://grml.org/repos/).

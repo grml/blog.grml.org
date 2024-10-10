@@ -8,4 +8,4 @@ slug: 202-update-grml-zsh-refcard
 title: update grml-zsh-refcard
 
 ---
-The [grml\-zsh\-refcard](http://grml.org/zsh/#grmlzshrefcard) received a big update. It covers the most current zsh configuration which will be shipped with the upcoming grml release. Many thanks go to Frank Terbeck for his work!
+The [grml\-zsh\-refcard](https://grml.org/zsh/#grmlzshrefcard) received a big update. It covers the most current zsh configuration which will be shipped with the upcoming grml release. Many thanks go to Frank Terbeck for his work!

@@ -8,6 +8,6 @@ slug: 37-april-joke-2005
 title: april joke 2005
 
 ---
-Just for the archive: **of course** [the last entry](http://blog.grml.org/archives/37-grml-provides-XPDE.html) was an april joke. Sorry for that but I couldn't resist. :\-)
+Just for the archive: **of course** the last entry ("grml provides XPDE") was an Aprils fools joke. Sorry for that but I couldn't resist. :\-)
 
 German readers should take a look at [the symlink.ch\-article](http://www.symlink.ch/kolumnen/05/04/01/1332242.shtml). ;\-)

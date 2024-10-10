@@ -24,4 +24,4 @@ As you might notice the grml\-small flavour came back. So it's two flavours (grm
 
 We want to thank all the people involved in this magnificent and awesome release. The Grml Developers, our Contributors and all the other people involved in this release.
 
-More information is available in the [release notes of Grml 2012\.05](http://grml.org/changelogs/README-grml-2012.05/). Now [download the latest Grml ISO](http://grml.org/download/) and spread the word!
+More information is available in the [release notes of Grml 2012\.05](https://grml.org/changelogs/README-grml-2012.05/). Now [download the latest Grml ISO](https://grml.org/download/) and spread the word!

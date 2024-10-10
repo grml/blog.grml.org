@@ -8,7 +8,7 @@ slug: 137-develrelease-grml-0.6-2
 title: develrelease grml 0.6-2
 
 ---
-Chemnitzer LinuxTage 2006 and the [grml CLT06 release](http://blog.grml.org/archives/139-grml-chemnitzer-linuxdays-2006.html) are coming closer. grml 0\.6\-2 is available for [betatesters](http://grml.org/beta-tester/) and developers. See the changelog for more details:
+Chemnitzer LinuxTage 2006 and the [grml CLT06 release]({{< relref "134-grml-chemnitzer-linuxdays-2006" >}}) are coming closer. grml 0\.6\-2 is available for [betatesters](https://grml.org/beta-tester/) and developers. See the changelog for more details:
 *Changelog from grml 0\.6\-1:*
 * updated isolinux to version syslinux\-3\.20\-pre6
 * removed mysql\-server package

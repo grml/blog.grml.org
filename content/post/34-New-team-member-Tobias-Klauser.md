@@ -8,4 +8,4 @@ slug: 34-New-team-member-Tobias-Klauser
 title: 'New team member: Tobias Klauser'
 
 ---
-I proudly present another contributor in the [grml\-team](http://grml.org/team/): Tobias Klauser. Tobias is helping me especially at the udev\- and hotplug\-stuff in grml. Welcome in the team, Tobias!
+I proudly present another contributor in the [grml\-team](https://grml.org/team/): Tobias Klauser. Tobias is helping me especially at the udev\- and hotplug\-stuff in grml. Welcome in the team, Tobias!

@@ -8,4 +8,4 @@ slug: 213-New-team-member-Frank-Terbeck
 title: 'New team member: Frank Terbeck'
 
 ---
-Frank Terbeck joined [the grml\-team](http://grml.org/team/). Frank did a lot of work in the zsh setup of grml. Welcome in the grml team, Frank!
+Frank Terbeck joined [the grml\-team](https://grml.org/team/). Frank did a lot of work in the zsh setup of grml. Welcome in the grml team, Frank!

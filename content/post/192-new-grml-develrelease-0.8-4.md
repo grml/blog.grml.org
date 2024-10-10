@@ -8,7 +8,7 @@ slug: 192-new-grml-develrelease-0.8-4
 title: 'new grml-develrelease: 0.8-4'
 
 ---
-We have a new develrelease. grml 0\.8\-4 is available for [beta\-testers](http://grml.org/beta-tester/) and grml\-developers.
+We have a new develrelease. grml 0\.8\-4 is available for [beta\-testers](https://grml.org/beta-tester/) and grml\-developers.
 Quoting the main changelog:
 
 ```

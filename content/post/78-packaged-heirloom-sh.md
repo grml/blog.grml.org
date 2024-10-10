@@ -11,4 +11,4 @@ title: packaged heirloom-sh
 I just packaged [heirloom\-sh](http://heirloom.sourceforge.net/sh.html) \- a portable variant
 of the traditional Unix shell.
 It has been derived from[OpenSolaris](http://www.opensolaris.org/) code
-and thus implements the SVR4/SVID3 level of the shell.As usual it's available in [the grml\-repos](http://grml.org/repos/), feedback welcome.
+and thus implements the SVR4/SVID3 level of the shell.As usual it's available in [the grml\-repos](https://grml.org/repos/), feedback welcome.

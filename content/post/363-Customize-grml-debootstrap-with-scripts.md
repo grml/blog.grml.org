@@ -8,7 +8,7 @@ slug: 363-Customize-grml-debootstrap-with-scripts
 title: Customize grml-debootstrap with scripts
 
 ---
-In our latest [blog entry about grml\-debootstrap](http://blog.grml.org/archives/362-Deploy-Virtual-Machines-with-Grml-2011.12-or-Debian.html) we described how to leverage grml\-debootstrap for automated installations of Debian into virtualized systems. Unfortunately sometimes this is not enough and you need to run commands after the installation. This post will describe some customization methods of grml\-debootstrap. For more information on this topic also look at [the manpage of grml\-debootstrap](http://grml.org/grml-debootstrap/)
+In our latest [blog entry about grml\-debootstrap]({{< relref "362-Deploy-Virtual-Machines-with-Grml-2011.12-or-Debian" >}}) we described how to leverage grml\-debootstrap for automated installations of Debian into virtualized systems. Unfortunately sometimes this is not enough and you need to run commands after the installation. This post will describe some customization methods of grml\-debootstrap. For more information on this topic also look at [the manpage of grml\-debootstrap](https://grml.org/grml-debootstrap/)
 
 One quite common task is to execute scripts after the installation like for example gathering the ssh host key or adding your own CA to the host. *grml\-debootstrap* supports the execution of scripts after the machine is successfully installed.
 
@@ -51,4 +51,4 @@ After we created the directory and the script we can now point *grml\-debootstra
 > ```
 
 
-This shows how easy it is to customize and extend *grml\-debootstrap* to your own needs. You can easily create customized scripts and run arbitrary commands on the target to do whatever you want. grml\-debootstrap is of course available within [Grml](http://grml.org/) but also in [Debian](http://debian.org/).
+This shows how easy it is to customize and extend *grml\-debootstrap* to your own needs. You can easily create customized scripts and run arbitrary commands on the target to do whatever you want. grml\-debootstrap is of course available within [Grml](https://grml.org/) but also in [Debian](http://debian.org/).

@@ -8,4 +8,4 @@ slug: 198-Setup-Xen-within-20-minutes-on-Debiangrml
 title: Setup Xen within 20 minutes on Debian/grml
 
 ---
-I wrote a small howto for [setting up xen within 20 minutes on Debian/grml](http://grml.org/xen/).
+I wrote a small howto for [setting up xen within 20 minutes on Debian/grml](https://grml.org/xen/).

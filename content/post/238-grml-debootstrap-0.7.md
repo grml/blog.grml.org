@@ -8,7 +8,7 @@ slug: 238-grml-debootstrap-0.7
 title: grml-debootstrap 0.7
 
 ---
-I just uploaded a new version of [grml\-debootstrap](http://grml.org/grml-debootstrap/) to the grml\-testing pool providing many new features. One nifty feature is setting variables via commandline. This allows you to install Debian with just one command and 2 keystrokes(!) (one 'y' for starting execution of grml\-debootstrap and another one for setting the password of user root, this can be automated as well of course if you want to). I just installed a plain Debian system via running:
+I just uploaded a new version of [grml\-debootstrap](https://grml.org/grml-debootstrap/) to the grml\-testing pool providing many new features. One nifty feature is setting variables via commandline. This allows you to install Debian with just one command and 2 keystrokes(!) (one 'y' for starting execution of grml\-debootstrap and another one for setting the password of user root, this can be automated as well of course if you want to). I just installed a plain Debian system via running:
 
 ```
 # grml-debootstrap --target /dev/hda2 --grub hd0 --groot hd0,1

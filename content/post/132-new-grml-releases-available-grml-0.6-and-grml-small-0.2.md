@@ -8,8 +8,8 @@ slug: 132-new-grml-releases-available-grml-0.6-and-grml-small-0.2
 title: 'new grml releases available: grml 0.6 and grml-small 0.2'
 
 ---
-**grml 0\.6** with codename **Winterschlapfn** and **grml\-small 0\.2** with codename **Corry** are [available.](http://grml.org/download/)
-* For more information regarding grml 0\.6 take a look at: [http://grml.org/files/README\-0\.6\.txt](http://grml.org/files/README-0.6.txt)
-* For more information regarding grml\-small 0\.2 take a look at: [http://grml.org/files/README\-0\.2\-small.txt](http://grml.org/files/README-0.2-small.txt)
-Download: <http://grml.org/download/>
+**grml 0\.6** with codename **Winterschlapfn** and **grml\-small 0\.2** with codename **Corry** are [available.](https://grml.org/download/)
+* For more information regarding grml 0\.6 take a look at: [https://grml.org/files/README\-0\.6\.txt](https://grml.org/files/README-0.6.txt)
+* For more information regarding grml\-small 0\.2 take a look at: [https://grml.org/files/README\-0\.2\-small.txt](https://grml.org/files/README-0.2-small.txt)
+Download: <https://grml.org/download/>
 *Thanks to all of you who helped to improve grml!* *Happy hacking and enjoy grml!* 

@@ -8,7 +8,7 @@ slug: 233-new-develrelease-grml-0.9-6
 title: 'new develrelease: grml 0.9-6'
 
 ---
-After uploading [grml64](http://blog.grml.org/archives/240-grml64-64-bit-version-of-grml.html) I also uploaded a new develrelease of grml (the 32bit version ;\-)) for beta\-testers and developers. So, what's new? Read yourself:
+After uploading [grml64]({{< relref "232-grml64-64-bit-version-of-grml" >}}) I also uploaded a new develrelease of grml (the 32bit version ;\-)) for beta\-testers and developers. So, what's new? Read yourself:
 
 ```
 This release is a very special one for me. There are many updates,
@@ -40,7 +40,7 @@ Main changelog:
     - grml-setlang: do not set $TZ anymore, we want to handle it via
       /etc/timezone instead of /etc/default/locale; notice: the
       timezone configuration has been documented detailed at
-      http://grml.org/faq/#timezone and within 'grml-tips timezone'
+      https://grml.org/faq/#timezone and within 'grml-tips timezone'
       Questions? Problems? Report!
     - integrated grml-quickconfig within zsh-login. grml-quickconfig
       has been contributed by Michael Schierl - thanks! [Needs some

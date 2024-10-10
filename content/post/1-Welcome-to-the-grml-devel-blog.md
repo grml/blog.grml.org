@@ -8,4 +8,4 @@ slug: 1-Welcome-to-the-grml-devel-blog
 title: Welcome to the grml-devel-blog
 
 ---
-Finally I decided to create a new blog for my activities on [grml](http://grml.org/).
+Finally I decided to create a new blog for my activities on [grml](https://grml.org/).

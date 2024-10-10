@@ -8,4 +8,4 @@ slug: 347-Results-of-Grml-user-survey-2011-available
 title: Results of Grml user survey 2011 available
 
 ---
-The [results of the Grml user survey are available](http://grml.org/survey2011-results/). Thanks to everyone taking part in our survey!
+The [results of the Grml user survey are available](https://grml.org/survey2011-results/). Thanks to everyone taking part in our survey!

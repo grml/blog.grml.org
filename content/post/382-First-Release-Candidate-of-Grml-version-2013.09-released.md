@@ -12,6 +12,6 @@ We are proud to announce the first release candidate of the upcoming version 201
 
 This Grml release provides fresh software packages after the Debian stable release (AKA wheezy) has been released. As usual it also incorporates up2date hardware support and fixes known bugs from the previous Grml release.
 
-For detailed information about the changes between 2013\.02 and 2013\.09 have a look at the [official release announcement](http://grml.org/changelogs/README-grml-2013.09-rc1/).
+For detailed information about the changes between 2013\.02 and 2013\.09 have a look at the [official release announcement](https://grml.org/changelogs/README-grml-2013.09-rc1/).
 
 Please test the ISOs and everything you usually use and report back, so we can complete the stable release soon. If no major problems come up, the next iteration will be the stable release, which is scheduled for the end of September.

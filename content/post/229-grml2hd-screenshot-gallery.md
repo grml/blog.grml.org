@@ -8,4 +8,4 @@ slug: 229-grml2hd-screenshot-gallery
 title: grml2hd screenshot gallery
 
 ---
-A [screenshot gallery showing details of the grml2hd process is available online](http://grml.org/grml2hd/gallery/). (Notice: you'll see the features of the current grml2hd version which supports grub already.)
+A [screenshot gallery showing details of the grml2hd process is available online](https://grml.org/grml2hd/gallery/). (Notice: you'll see the features of the current grml2hd version which supports grub already.)

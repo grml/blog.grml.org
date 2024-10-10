@@ -8,5 +8,5 @@ slug: 133-paper-cd-case-for-grml-0.6
 title: paper cd case for grml 0.6
 
 ---
-Florian Hassler contributed a paper cd case for grml 0\.6\. Get it on [grml.org/files/](http://grml.org/files/#cdcase)
+Florian Hassler contributed a paper cd case for grml 0\.6\. Get it on [grml.org/files/](https://grml.org/files/#cdcase)
 Thanks, Florian!

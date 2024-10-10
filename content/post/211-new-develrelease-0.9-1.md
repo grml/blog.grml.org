@@ -8,7 +8,7 @@ slug: 211-new-develrelease-0.9-1
 title: 'new develrelease: 0.9-1'
 
 ---
-We have a new develrelease. grml 0\.9\-1 is available for [beta\-testers](http://grml.org/beta-tester/) and grml\-developers.
+We have a new develrelease. grml 0\.9\-1 is available for [beta\-testers](https://grml.org/beta-tester/) and grml\-developers.
 Quoting the main changelog:
 
 ```

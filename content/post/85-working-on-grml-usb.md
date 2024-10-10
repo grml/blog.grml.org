@@ -9,4 +9,4 @@ title: working on grml-usb
 
 ---
 grml\-small (the 50MB\-ISO) is already available, now I'm working on grml\-usb. The goal is to provide a grml\-ISO with less than 250MB which fits on a 256MB usb stick.
-Please provide feedback which tools you would like to see on grml\-usb. Take a look at the [package list](http://grml.org/files/devel/dpkg_get_selections.usb) to see what's current status.  
+Please provide feedback which tools you would like to see on grml\-usb. Take a look at the [package list](https://grml.org/files/devel/dpkg_get_selections.usb) to see what's current status.  

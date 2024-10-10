@@ -8,4 +8,4 @@ slug: 148-fglrx-drivers-for-X.org-6.9-and-7.0
 title: fglrx drivers for X.org 6.9 and 7.0
 
 ---
-Thanks to Thomas Ulz for providing Debian packages of the ATI\-drivers for kernel 2\.6\.16\-grml with X.org 6\.9 and 7\.0! They are available [in the grml\-repos](http://grml.org/repos/). Run 'apt\-get update ; apt\-get install fglrx\-driver fglrx\-kernel\-2\.6\.16\-grml' to get them.
+Thanks to Thomas Ulz for providing Debian packages of the ATI\-drivers for kernel 2\.6\.16\-grml with X.org 6\.9 and 7\.0! They are available [in the grml\-repos](https://grml.org/repos/). Run 'apt\-get update ; apt\-get install fglrx\-driver fglrx\-kernel\-2\.6\.16\-grml' to get them.

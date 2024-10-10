@@ -8,4 +8,4 @@ slug: 147-packaged-TrueCrypt-4.2-and-cdck
 title: packaged TrueCrypt 4.2 and cdck
 
 ---
-I've packaged [cdck (CD/DVD check tools)](http://swaj.net/unix/index.html) and updated the [TrueCrypt](http://www.truecrypt.org/) package to the new version 4\.2\. As usual they are available through [the grml\-repository](http://grml.org/repos/).
+I've packaged [cdck (CD/DVD check tools)](http://swaj.net/unix/index.html) and updated the [TrueCrypt](http://www.truecrypt.org/) package to the new version 4\.2\. As usual they are available through [the grml\-repository](https://grml.org/repos/).

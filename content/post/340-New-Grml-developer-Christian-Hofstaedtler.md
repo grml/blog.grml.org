@@ -8,4 +8,4 @@ slug: 340-New-Grml-developer-Christian-Hofstaedtler
 title: 'New Grml developer: Christian Hofstaedtler'
 
 ---
-Christian Hofstaedtler [officially joined](http://lists.mur.at/pipermail/grml/2010-October/004920.html) the [Grml team](http://grml.org/team/) as developer.
+Christian Hofstaedtler [officially joined](http://lists.mur.at/pipermail/grml/2010-October/004920.html) the [Grml team](https://grml.org/team/) as developer.

@@ -8,4 +8,4 @@ slug: 265-grml-in-ct-special-Netzwerke
 title: grml in c't special "Netzwerke"
 
 ---
-[![](/images/heise_netwzerke_grml_2007.serendipityThumb.jpeg)](/images/heise_netwzerke_grml_2007.jpeg)You can find a pre\-release of the upcoming [grml](http://grml.org/) 1\.1 as part of "[c't special 02/2008 Netzwerke](http://www.heise.de/kiosk/special/ct/08/02/)" magazine.
+[![](/images/heise_netwzerke_grml_2007.serendipityThumb.jpeg)](/images/heise_netwzerke_grml_2007.jpeg)You can find a pre\-release of the upcoming [grml](https://grml.org/) 1\.1 as part of "[c't special 02/2008 Netzwerke](http://www.heise.de/kiosk/special/ct/08/02/)" magazine.

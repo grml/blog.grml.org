@@ -8,4 +8,4 @@ slug: 293-new-team-member-Moritz-Augsburger
 title: 'new team member: Moritz Augsburger'
 
 ---
-Moritz 'moemoe' Augsburger just joined [the grml\-team](http://grml.org/team/). He's a long\-standing grml user and contributed several bugreports, patches and improvement suggestions.
+Moritz 'moemoe' Augsburger just joined [the grml\-team](https://grml.org/team/). He's a long\-standing grml user and contributed several bugreports, patches and improvement suggestions.

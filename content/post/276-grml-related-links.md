@@ -10,4 +10,4 @@ title: grml related links
 ---
 * Brad Cable: [My Awesome Secure and Portable System](http://bcable.net/system.php)
 * Marc 'Zugschlus' Haber: [Universal boot stick for Debian, grml and the Debian installer](http://blog.zugschlus.de/archives/648-Universal-boot-stick-for-Debian,-grml-and-the-Debian-installer.html)
-You have a similar project/idea/website? Please let us [know](http://grml.org/contact/)!
+You have a similar project/idea/website? Please let us [know](https://grml.org/contact/)!

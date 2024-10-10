@@ -8,7 +8,7 @@ slug: 7-schedtool
 title: schedtool
 
 ---
-I stumbled upon [schedtool](http://freequaos.host.sk/schedtool/) via [ck's audio hints](http://ck.kolivas.org/audio_hints.txt) and just packaged it. As usual it's available via [the grml\-repository](http://grml.org/repos/).
+I stumbled upon [schedtool](http://freequaos.host.sk/schedtool/) via [ck's audio hints](http://ck.kolivas.org/audio_hints.txt) and just packaged it. As usual it's available via [the grml\-repository](https://grml.org/repos/).
 
 Seems to work:
 

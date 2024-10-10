@@ -8,4 +8,4 @@ slug: 374-New-Grml-developer-Evgeni-Golov
 title: 'New Grml developer: Evgeni Golov'
 
 ---
-We're proud to be able to announce that Evgeni 'Zhenech' Golov joined [the Grml team](http://grml.org/team/) as developer. Welcome in the team, Evgeni!
+We're proud to be able to announce that Evgeni 'Zhenech' Golov joined [the Grml team](https://grml.org/team/) as developer. Welcome in the team, Evgeni!

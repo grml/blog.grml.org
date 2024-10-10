@@ -8,4 +8,4 @@ slug: 163-packaged-dwm
 title: packaged dwm
 
 ---
-I just packaged [dwm](http://wmii.de/dwm/) (dynamic, small, fast and simple window manager for X11\). As usual you can get it from [the grml repository](http://grml.org/repos/).
+I just packaged [dwm](http://wmii.de/dwm/) (dynamic, small, fast and simple window manager for X11\). As usual you can get it from [the grml repository](https://grml.org/repos/).

@@ -8,7 +8,7 @@ slug: 55-kernel-2.6.11.8-and-some-other-stuff...
 title: kernel 2.6.11.8 and some other stuff...
 
 ---
-grml release 0\.4 will be based upon kernel 2\.6\.11\.8\. The kernel build has been finished, documentation has been updated (see http://grml.org/kernel\-devel/ \- but not yet finished) and grml 0\.3\-7 is running with the kernel:
+grml release 0\.4 will be based upon kernel 2\.6\.11\.8\. The kernel build has been finished, documentation has been updated (see https://grml.org/kernel\-devel/ \- but not yet finished) and grml 0\.3\-7 is running with the kernel:
 
 ```
 grml@grml ~ % uname -a  

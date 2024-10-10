@@ -8,7 +8,7 @@ slug: 318-forensic-mode-readonly-blockdevices-on-hotplug
 title: 'forensic mode: readonly blockdevices on hotplug'
 
 ---
-[grml release 2009\.05](http://grml.org/changelogs/README-grml-2009.05/) supports a bootoption 'readonly' which marks all /dev/\[hs]\*dX devices as readonly. This is important for data rescue and forensic investigations and is automatically activated when booting via 'forensic'. I just implemented readonly support for hotplugging. This means you can safely add new block devices to your system when booted via forensic and the blockdevices will be set to readonly mode automatically. You'll notice something like that in your syslog:
+[grml release 2009\.05](https://grml.org/changelogs/README-grml-2009.05/) supports a bootoption 'readonly' which marks all /dev/\[hs]\*dX devices as readonly. This is important for data rescue and forensic investigations and is automatically activated when booting via 'forensic'. I just implemented readonly support for hotplugging. This means you can safely add new block devices to your system when booted via forensic and the blockdevices will be set to readonly mode automatically. You'll notice something like that in your syslog:
 > Aug 12 16:21:49 grml kernel: \[ 259\.426656] usb 2\-3: new high speed USB device using ehci\_hcd and address 4  
 > 
 > Aug 12 16:21:49 grml kernel: \[ 259\.551346] usb 2\-3: configuration \#1 chosen from 1 choice  

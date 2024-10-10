@@ -8,4 +8,4 @@ slug: 119-You-like-our-work
 title: You like our work?
 
 ---
-[Make a donation to support our work!](http://grml.org/donations/)
+[Make a donation to support our work!](https://grml.org/donations/)

@@ -8,4 +8,4 @@ slug: 345-Grml-in-DELUG-edition-of-Linux-Magazine-0311
 title: Grml in DELUG edition of Linux Magazine 03/11
 
 ---
-German [Linux Magazine 03/11](http://www.linux-magazin.de/Heft-Abo/Ausgaben/2011/03) features [Grml 2010\.12](http://grml.org/) on DVD (DELUG version)!
+German [Linux Magazine 03/11](http://www.linux-magazin.de/Heft-Abo/Ausgaben/2011/03) features [Grml 2010\.12](https://grml.org/) on DVD (DELUG version)!

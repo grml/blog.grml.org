@@ -10,7 +10,7 @@ title: 'Information: broken boot entry on LinuxUser 2009/08 grml-DVD'
 ---
 ### English Version
 (Eine deutsche Version dieses Textes ist am Ende diese Blogeintrags verfügbar. A german version of this text is available at the bottom of this blogentry.)
-The [Grml 2009\.05 LinuxUser\-Edition DVD shipped with LinuxUser 2009/08](http://blog.grml.org/archives/323-Grml-2009.05-LinuxUser-Edition.html) sadly includes two errors. Neither data loss nor security risks, but broken boot entries instead. The grml team wants to inform users of the LinuxUser grml\-DVD about this issue.
+The [Grml 2009\.05 LinuxUser\-Edition DVD shipped with LinuxUser 2009/08]({{< relref "314-Grml-2009.05-LinuxUser-Edition" >}}) sadly includes two errors. Neither data loss nor security risks, but broken boot entries instead. The grml team wants to inform users of the LinuxUser grml\-DVD about this issue.
 * The grml64 flavour has two kernel entries (one being a leftover from the bootloader templates used for remastering) and due to murphy the wrong one is used. If you press the tab key with grml64 flavour being selected on the bootprompt you'll see:
 > /boot/suse/linux ...
 
@@ -22,7 +22,7 @@ To work around this issue replace '/boot/suse/linux' with '/boot/release/grml64/
 * The 'forensic64' bootoption uses 'live\-media\-path\=/live/grml/' instead of 'live\-media\-path\=/live/grml64/'. The system will boot with the wrong entry as well but instead of 64bit userland you'll get the 32bit userspace from flavour grml instead. To workaround this issue just edit the forensic64 bootoption at the bootprompt (press the tab key) and replace 'live\-media\-path\=/live/grml/' with 'live\-media\-path\=/live/grml64/'.
 The grml team is very sorry about this fsckup. This was the first official remastering of a multi\-ISO grml\-DVD including a new bootlayout (isolinux with vesamenu) and sadly the configuration error wasn't caught during our tests. Please note that this error happened to the grml team and is NOT the fault of LinuxUser.
 ### German / Deutsche Version
-Die [Grml 2009\.05 LinuxUser\-DVD die der LinuxUser\-Ausgabe 2009/08](http://blog.grml.org/archives/323-Grml-2009.05-LinuxUser-Edition.html) beiliegt hat leider zwei Fehler. Kein Datenverlust, keine Security\-Probleme, sondern kaputte Bootloader\-Einträge. Das Grml\-Team möchte mit diesem Blogeintrag Anwender der LinuxUser\-grml\-DVD über dieses Problem informieren.
+Die [Grml 2009\.05 LinuxUser\-DVD die der LinuxUser\-Ausgabe 2009/08]({{< relref "314-Grml-2009.05-LinuxUser-Edition" >}}) beiliegt hat leider zwei Fehler. Kein Datenverlust, keine Security\-Probleme, sondern kaputte Bootloader\-Einträge. Das Grml\-Team möchte mit diesem Blogeintrag Anwender der LinuxUser\-grml\-DVD über dieses Problem informieren.
 * Der grml64\-Flavour besitzt zwei Kernel\-Einträge (einer ist ein Überbleibsel der Bootloader\-Vorlagen die für das Remastern verwendet wurden) und gemäß Murphy wird der falsche Eintrag verwendet. Wenn man bei ausgewähltem grml64\-Eintrag am Bootprompt die Tabulator\-Taste drückt, sieht man:
 
 > /boot/suse/linux ...

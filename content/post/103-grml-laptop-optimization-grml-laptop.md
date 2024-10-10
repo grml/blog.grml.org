@@ -19,5 +19,5 @@ Hardware recognition of grml is quite stable. But there exist are some laptops w
 >  .  
 >  If you would like to see some more script(s) as part of  
 >  the package please contribute them!  
->  http://grml.org/contact/
+>  https://grml.org/contact/
 I will add a cheatcode laptop\=... for using those scripts. So if you would like to see a script for a specific/your laptop: please contribute!

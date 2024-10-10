@@ -8,7 +8,7 @@ slug: 200-updates-in-grml-packages-grml2hd,-grml-autoconfig,-grml-terminalserver
 title: updates in grml-packages (grml2hd, grml-autoconfig, grml-terminalserver)
 
 ---
-Just to keep developers and beta\-testers informed (assuming that you don't follow my [hg commits](http://hg.grml.org/) \[time for a hg\-commit mailinglist, yes]): today I spent several hours in reducing the todo list for grml 0\.9\. So make sure you have recent packages on [your brand new develrelease](http://blog.grml.org/archives/207-new-grml-develrelease-0.8-5.html) (run 'apt\-get update; apt\-get install $PACKAGES') when trying out. Quoting some important stuff of the changelogs:
+Just to keep developers and beta\-testers informed (assuming that you don't follow my [hg commits](http://hg.grml.org/) \[time for a hg\-commit mailinglist, yes]): today I spent several hours in reducing the todo list for grml 0\.9\. So make sure you have recent packages on [your brand new develrelease]({{< relref "199-new-grml-develrelease-0.8-5" >}}) (run 'apt\-get update; apt\-get install $PACKAGES') when trying out. Quoting some important stuff of the changelogs:
 
 ```
 grml2hd: adjust /etc/default/rcS according to bootoption utc/gmt

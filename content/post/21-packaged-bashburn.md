@@ -8,4 +8,4 @@ slug: 21-packaged-bashburn
 title: packaged bashburn
 
 ---
-Martin Simon suggested to add [bashburn](http://bashburn.sourceforge.net/) to grml. I just packaged it but had no time to test if it works as intended. You can find it in the [grml\-repository](http://grml.org/repos/) \- feedback welcome.
+Martin Simon suggested to add [bashburn](http://bashburn.sourceforge.net/) to grml. I just packaged it but had no time to test if it works as intended. You can find it in the [grml\-repository](https://grml.org/repos/) \- feedback welcome.

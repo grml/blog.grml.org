@@ -8,4 +8,4 @@ slug: 188-two-years-of-grml
 title: two years of grml
 
 ---
-Exactly two years ago (on 22nd of october 2004\) the first release of grml (named OS04\) [was released](http://grml.org/news/). Happy birthday. :\-)
+Exactly two years ago (on 22nd of october 2004\) the first release of grml (named OS04\) [was released](https://grml.org/news/). Happy birthday. :\-)

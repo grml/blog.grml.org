@@ -16,4 +16,4 @@ Some highlights of this amazing event:
 * gebi designed and started to develop a framework for non free tools like Raid controller or truecrypt (yes truecrypt is non\-free!)
 * rhonda started to use Zsh and will be looking for fast mirrors outside of Europe.
 * mika was just amazed about the donations and what was achieved during these two days. Thank you!
-Find more details about the meeting in the [Minutes of the Grml Developer Meeting 2010](http://grml.org/reports/devmeeting_2010/).
+Find more details about the meeting in the [Minutes of the Grml Developer Meeting 2010](https://grml.org/reports/devmeeting_2010/).

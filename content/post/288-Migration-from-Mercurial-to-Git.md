@@ -9,7 +9,7 @@ title: Migration from Mercurial to Git
 
 ---
 Over the last few weeks the grml team evaluated the distributed version controll system**Git**. Git is an open source, distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Read the [wikipedia article on Git](http://en.wikipedia.org/wiki/Git_(software)) to get an (not so short) overview.
-Grml used to work with the distributed version controll system **Mercurial** and officially announced its use on October 18th, 2006\. The way Mercurial worked was great for us and at that time it definitely was the best solution for our needs. We provided detailed documentation for our setup (see [grml.org/mercurial/](http://grml.org/mercurial/)) and developed our own utils for working with Mercurial and Debian packaging ([grml\-mercurial\-utils](http://hg.grml.org/grml-mercurial-utils)). Special thanks to the Mercurial developers \- we highly appreciate all your help!
+Grml used to work with the distributed version controll system **Mercurial** and officially announced its use on October 18th, 2006\. The way Mercurial worked was great for us and at that time it definitely was the best solution for our needs. We provided detailed documentation for our setup (see [grml.org/mercurial/](https://grml.org/mercurial/)) and developed our own utils for working with Mercurial and Debian packaging ([grml\-mercurial\-utils](http://hg.grml.org/grml-mercurial-utils)). Special thanks to the Mercurial developers \- we highly appreciate all your help!
 But we had to re\-evaluate the situation as time passed:
 * in Debian Mercurial is not used for many packages ([http://hg.debian.org](http://hg.debian.org/)), while Git is used a lot ([git.debian.org](http://git.debian.org/)) and there's visible progress on the Git front (for example [git\-buildpackage](http://packages.debian.org/sid/git-buildpackage), [topgit](http://repo.or.cz/w/topgit.git) and [vcs\-pkg.org](http://vcs-pkg.org/))
 * situation of Git improved (like better documentation, tools for Debian packaging,...)
@@ -20,7 +20,7 @@ So whereas Mercurial used to work just fine for us in most cases Git provides th
 **Current state**
 Thanks to our [hg\-to\-git tools](http://git.grml.org/?p=hg-to-git.git;a=summary) the migration itself took less than 1 hour and all repositories have been migrated from [hg.grml.org](http://hg.grml.org/) to [git.grml.org](http://git.grml.org/).
 By today (1st of october 2008\) the grml mercurial repositories are deprecated and the official place for grml's sources is **[git.grml.org](http://git.grml.org/)**. The mercurial hosting will be deactivated within the next few weeks.
-All the documentation and scripts of grml are being updated to reflect the changes and updated URLs but it has not been finished yet. So if you find something still mentioning hg.grml.org instead of git.grml.org please [let us know](http://grml.org/contact/), thanks!
-As usual we provide documentation about our setup and tools:**[grml.org/git/](http://grml.org/git/)**
+All the documentation and scripts of grml are being updated to reflect the changes and updated URLs but it has not been finished yet. So if you find something still mentioning hg.grml.org instead of git.grml.org please [let us know](https://grml.org/contact/), thanks!
+As usual we provide documentation about our setup and tools:**[grml.org/git/](https://grml.org/git/)**
 We highly appreciate any help, corrections and further feedback.
-Special thanks to [Michael Gebetsroither](http://grml.org/team/#gebi) for his work and help on migrating.
+Special thanks to [Michael Gebetsroither](https://grml.org/team/#gebi) for his work and help on migrating.

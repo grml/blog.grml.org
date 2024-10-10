@@ -35,7 +35,7 @@ forward to installing packages with just a couple of keystrokes. By building on 
 efforts of other successful distributions, we can take the drudgery out of system
 maintenance."
 
-Michael Prokop, founder of the [Grml](http://grml.org/) live CD, can be quoted on the effort that
+Michael Prokop, founder of the [Grml](https://grml.org/) live CD, can be quoted on the effort that
 "we managed to create a universal live build framework with grml\-live. Our vision was
 always that it will be universally usable to further the spreading of Free Software."
 

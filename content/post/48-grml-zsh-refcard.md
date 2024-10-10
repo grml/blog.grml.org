@@ -8,7 +8,7 @@ slug: 48-grml-zsh-refcard
 title: grml zsh refcard
 
 ---
-The [grml\-zsh\-refcard](http://grml.org/zsh/grml-zsh-refcard.pdf) (PDF, 24k) is available on [grml.org/zsh/](http://grml.org/zsh/#grmlzshrefcard).
+The [grml\-zsh\-refcard](https://grml.org/zsh/grml-zsh-refcard.pdf) (PDF, 24k) is available on [grml.org/zsh/](https://grml.org/zsh/#grmlzshrefcard).
 
 This file documents aliases, functions and settings of zsh on the grml system.
 

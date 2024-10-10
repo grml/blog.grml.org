@@ -13,4 +13,4 @@ What's currently on the todo\-list:
 * improve grml2hd (automatic installation of grml to harddisk)
 * more documentation (grml user guide)
 * improved configuration handling
-If you have any special wishes or just general feedback [please let me know](http://grml.org/contact/).  
+If you have any special wishes or just general feedback [please let me know](https://grml.org/contact/).  

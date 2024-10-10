@@ -16,4 +16,4 @@ Linux grml 2.6.12-grml #1 SMP Mon Jun 20 15:20:40 CEST 2005 i686 GNU/Linux
 ```
 
 The debian\-package plus several modules built against 2\.6\.12\-grml are available [online](http://dufo.tugraz.at/~prokop/grml-kernel/2.6.12-grml/).
-I'm working on a (better) framework for the grml\-kernel (using dpatch\+debian/...). Expect to find broken\-out (d)patches and some more information on [grml.org/kernel\-devel/](http://grml.org/kernel-devel/ "grml kernel-devel") soon. Feedback and help welcome!
+I'm working on a (better) framework for the grml\-kernel (using dpatch\+debian/...). Expect to find broken\-out (d)patches and some more information on [grml.org/kernel\-devel/](https://grml.org/kernel-devel/ "grml kernel-devel") soon. Feedback and help welcome!
