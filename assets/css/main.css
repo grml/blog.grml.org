@@ -88,7 +88,7 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
   header a { color: black; font-family: 'funds', helvetica, arial, sans-serif; text-decoration: none; }
   header h1 { color: navy; font-size: 40pt; line-height: 1.2em; font-weight: 1000; }
   header h2 { color: navy; font-size: 15pt; line-height: 1.3em; font-weight: 200; }
-  header #logo { float: left; padding-top: 1em; }
+  header #logo { float: left; height: 90px; width: 90px; padding-top: 5px; padding-right: 2em; }
 
   div.container {
     text-align: left;
