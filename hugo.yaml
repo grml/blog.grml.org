@@ -6,6 +6,7 @@ cleanDestinationDir: true
 # for backwards compatibility
 uglyURLs: true
 disablePathToLower: true
+disableHugoGeneratorInject: true
 
 permalinks:
   post: "/archives/:slug"
