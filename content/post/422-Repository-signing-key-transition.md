@@ -24,7 +24,8 @@ The new key's details are:
 ```
 sec   ed25519 2025-02-24 [C]
       40CC7451383EE22A512C95D6C86CE754CF55033A
-uid           [ unknown] Grml Archive Automatic Signing Key (https://grml.org/) <team@grml.org>
+uid           [ unknown] Grml Archive Automatic Signing Key
+                      (https://grml.org/) <team@grml.org>
 ssb   ed25519 2025-02-24 [S]
 ssb   cv25519 2025-02-24 [E]
 ```
