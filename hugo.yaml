@@ -1,6 +1,6 @@
 baseurl: "https://blog.grml.org"
 title: "Grml Blog"
-languageCode: "en-us"
+locale: "en-US"
 defaultContentLanguage: "en"
 cleanDestinationDir: true
 # for backwards compatibility
