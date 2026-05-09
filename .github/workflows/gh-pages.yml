@@ -44,13 +44,20 @@ jobs:
         run: hugo --minify
       - name: Verify RSS feed
         run: |
-          set -euo pipefail
-          feed=public/feeds/index.rss2
-          test -s "$feed" || { echo "::error::$feed is missing or empty"; exit 1; }
-          xmllint --noout "$feed"
-          items=$(xmllint --xpath 'count(/rss/channel/item)' "$feed")
-          echo "RSS items: $items"
-          [ "$items" -gt 0 ] || { echo "::error::$feed has no <item> entries"; exit 1; }
+          python3 - <<'PY'
+          import sys, xml.etree.ElementTree as ET
+          from pathlib import Path
+          feed = Path("public/feeds/index.rss2")
+          if not feed.is_file() or feed.stat().st_size == 0:
+              sys.exit(f"::error::{feed} is missing or empty")
+          root = ET.parse(feed).getroot()
+          if root.tag != "rss":
+              sys.exit(f"::error::{feed} root is <{root.tag}>, expected <rss>")
+          items = root.findall("./channel/item")
+          print(f"RSS items: {len(items)}")
+          if not items:
+              sys.exit(f"::error::{feed} has no <item> entries")
+          PY
       - name: Upload artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
