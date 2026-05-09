@@ -42,6 +42,8 @@ jobs:
 
       - name: Build
         run: hugo --minify
+      - name: Verify RSS feed
+        run: .github/scripts/verify-feed.py
       - name: Upload artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3

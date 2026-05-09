@@ -24,7 +24,7 @@ mediaTypes:
       - "rss2"
 
 outputFormats:
-  rss:
+  RSS:
     mediaType: "application/rss+xml"
     path: feeds/
     noUgly: false
@@ -32,11 +32,9 @@ outputFormats:
 outputs:
   home:
     - html
-    - rss
+    - RSS
   page:
     - html
-  rss:
-    - rss
   section:
     - html
   taxonomy:
