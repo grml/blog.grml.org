@@ -42,6 +42,15 @@ jobs:
 
       - name: Build
         run: hugo --minify
+      - name: Verify RSS feed
+        run: |
+          set -euo pipefail
+          feed=public/feeds/index.rss2
+          test -s "$feed" || { echo "::error::$feed is missing or empty"; exit 1; }
+          xmllint --noout "$feed"
+          items=$(xmllint --xpath 'count(/rss/channel/item)' "$feed")
+          echo "RSS items: $items"
+          [ "$items" -gt 0 ] || { echo "::error::$feed has no <item> entries"; exit 1; }
       - name: Upload artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
