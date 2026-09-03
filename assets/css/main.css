@@ -110,9 +110,9 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
 
   main h1 a, main h2, main h3 a, main h4 a { color:black; text-decoration: none; }
   main h1, main h1 a { font-size: 40pt; line-height: 1.3em; }
-  main h2, main h2 a { font-size: 30pt; line-height: 1.3em; }
-  main h3, main h3 a { font-size: 20pt; line-height: 1.3em; }
-  main h4, main h3 a { font-size: 15pt; line-height: 1.3em; }
+  main h2, main h2 a { font-size: 30pt; line-height: 1.5em; }
+  main h3, main h3 a { font-size: 20pt; line-height: 2em; }
+  main h4, main h3 a { font-size: 15pt; line-height: 2em; }
 
   main time { text-align: left; line-height: 2em; color: var(--accent-text); margin: 10px 0 0 0; display: block; padding: 0 1em 0 0; }
 
