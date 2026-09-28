@@ -15,7 +15,7 @@ Quoting the main changelog:
   * kernel 2.6.19-grml
   * use utf8 by default:
     - when using lang=$LANG it defaults to utf8, it's possible to
-      use lang=$LANG-utf8 as well for backward compability
+      use lang=$LANG-utf8 as well for backward compatibility
     - fallback to iso is possible through bootoption lang=$LANG-iso
     - now using Uni3-Terminus14 as default font instead of
       Lat15-Terminus16 which should improve use of utf8 on console;

@@ -9,7 +9,7 @@ title: 'Information: broken boot entry on LinuxUser 2009/08 grml-DVD'
 
 ---
 ### English Version
-(Eine deutsche Version dieses Textes ist am Ende diese Blogeintrags verfügbar. A german version of this text is available at the bottom of this blogentry.)
+(Eine deutsche Version dieses Textes ist am Ende diese Blogeintrags verfügbar. A German version of this text is available at the bottom of this blogentry.)
 The [Grml 2009\.05 LinuxUser\-Edition DVD shipped with LinuxUser 2009/08]({{< relref "314-Grml-2009.05-LinuxUser-Edition" >}}) sadly includes two errors. Neither data loss nor security risks, but broken boot entries instead. The grml team wants to inform users of the LinuxUser grml\-DVD about this issue.
 * The grml64 flavour has two kernel entries (one being a leftover from the bootloader templates used for remastering) and due to murphy the wrong one is used. If you press the tab key with grml64 flavour being selected on the bootprompt you'll see:
 ```

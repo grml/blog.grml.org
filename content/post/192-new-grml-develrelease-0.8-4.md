@@ -25,7 +25,7 @@ Quoting the main changelog:
   * many minor updates, lots of cleanups, new shell
     aliases/functions,... [just too many too mention all]
 Packages removed since 0.8 (excluding lib* and *2.6.17-grml*;
-notice: some of them are available under a differnet name now):
+notice: some of them are available under a differenet name now):
   apache2-common bluez-pin bookmarkbridge camgrab cdw cdw-common
   cthumb divine dnotify drbd0.7-utils gcj-4.1-base gconf2-common
   grml-kerneladdons grml-reportbug ht jaxml lout-doc lpr

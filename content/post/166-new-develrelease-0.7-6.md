@@ -22,7 +22,7 @@ A new develrelease is available. Quoting the main changelog from my mail to [bet
   - grml-setkeyboard: set keyboard layout system-wide on grml system via
     /etc/sysconfig/keyboard
 * grml-policy-rc.d: a wrapper script for invoke-rc.d to avoid
-  automatical startup of init scripts via invoke-rc.d
+  automatic startup of init scripts via invoke-rc.d
 * osd_server.py: listen for incoming messages on a specific port and
   print them via osd_cat; run 'grml-tips osd' for more details
   (thanks to Ulrich Dangel, Alexander Bernauer and Rico Schickel)

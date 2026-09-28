@@ -5,11 +5,11 @@ categories:
 date: Thu, 01 Sep 2005 11:39:00 +0000
 layout: post
 slug: 95-german-grml-paper-available
-title: german grml-paper available
+title: German grml-paper available
 
 ---
 
-A german paper about grml is available online: [grml\-grml.paper (170kB, PDF)](https://grml.org/docs/grml-paper.de.pdf) That's 24 pages about technologies used at grml and some main information about grml itself.
+A German paper about grml is available online: [grml\-grml.paper (170kB, PDF)](https://grml.org/docs/grml-paper.de.pdf) That's 24 pages about technologies used at grml and some main information about grml itself.
 
 [Feedback welcome!](https://grml.org/contact/)
 

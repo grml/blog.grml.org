@@ -18,7 +18,7 @@ Formorer and me did some further work on the ppc\-port of grml:
 
 [![efika-board](/images/2007-03-03_15h13_IMG_1524.serendipityThumb.jpg)](/images/2007-03-03_15h13_IMG_1524.jpg)
 
-The grml\-team had the chance to test one server of [the Linux cluster in chemnitz](http://www.heise.de/newsticker/meldung/84925) \[Chemnitzer Hochleistungs\-Linux\-Cluster (CHIC)] with grml. The server is a IBM System x3455 featuring Dual\-Core AMD Opteron Processor, DDR2\-RAM and AMD's virtualization technology 'Secure Virtual Machine' (SVM).
+The grml\-team had the chance to test one server of [the Linux cluster in Chemnitz](http://www.heise.de/newsticker/meldung/84925) \[Chemnitzer Hochleistungs\-Linux\-Cluster (CHIC)] with grml. The server is a IBM System x3455 featuring Dual\-Core AMD Opteron Processor, DDR2\-RAM and AMD's virtualization technology 'Secure Virtual Machine' (SVM).
 
 The cluster machine running grml:
 

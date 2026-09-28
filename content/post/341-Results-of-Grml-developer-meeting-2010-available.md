@@ -8,7 +8,7 @@ slug: 341-Results-of-Grml-developer-meeting-2010-available
 title: Results of Grml developer meeting 2010 available
 
 ---
-The hackathon for next Grml release took place on 4th and 5th november 2010 in the fantastic hackerspace [Metalab](http://metalab.at/) in Vienna/Austria.
+The hackathon for next Grml release took place on 4th and 5th November 2010 in the fantastic hackerspace [Metalab](http://metalab.at/) in Vienna/Austria.
 Some highlights of this amazing event:
 * formorer started to work on the new Grml Homepage and it looks great so far. Maybe it is finished for the new release
 * ch organized the location and social event and closed many bugs

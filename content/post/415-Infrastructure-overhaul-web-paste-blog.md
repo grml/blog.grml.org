@@ -10,7 +10,7 @@ title: "Infrastructure overhaul: web, paste + blog"
 ---
 We're reworking, updating and migrating our infrastructure. We try to not break too much of it, but if you should notice any problems [please let us know](https://grml.org/contact/).
 
-We no longer host our own paste service (which used to be available at paste.grml.org). This [paste.pl](https://github.com/formorer/paste.pl) service was written and thankfully maintained for a long time by alumni Grml developer Alexander 'formorer' Wirt, and served us well for many years (seems to have be >14 years!). We no longer want to maintain the service ourself though and therefore decided to retire it. If you're looking for a similar web service, paste.debian.net provides the same paste.pl service and API, and is also run by Alexander.
+We no longer host our own paste service (which used to be available at paste.grml.org). This [paste.pl](https://github.com/formorer/paste.pl) service was written and thankfully maintained for a long time by alumni Grml developer Alexander 'formorer' Wirt, and served us well for many years (seems to have be >14 years!). We no longer want to maintain the service ourselves though and therefore decided to retire it. If you're looking for a similar web service, paste.debian.net provides the same paste.pl service and API, and is also run by Alexander.
 
 We also migrated our mirror infrastructure, as well as our download and [main web presence](https://grml.org/). All those changes should not really affect nor be visible to anyone in the public though.
 

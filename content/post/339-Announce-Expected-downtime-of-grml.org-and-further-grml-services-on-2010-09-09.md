@@ -10,10 +10,10 @@ title: 'Announce: Expected downtime of grml.org and further grml services on 201
 ---
 Due to a server migration at our provider the grml.org website and a few services will experience an expected downtime, from:
 
- 9th of september 2010, 22:00 CEST / 20:00 UTC
+ 9th of September 2010, 22:00 CEST / 20:00 UTC
 until:
 
- 10th of september 2010, 9:00 CEST / 7:00 UTC
+ 10th of September 2010, 9:00 CEST / 7:00 UTC
 The affected services will be:
 * https://grml.org/
 * http://ml.grml.org/

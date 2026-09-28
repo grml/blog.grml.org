@@ -8,7 +8,7 @@ slug: 74-grml-autoconfig-revisited
 title: grml-autoconfig revisited
 
 ---
-I just worked on grml\-autoconfig which is a seperate package since 5th of June. I split grml\-autoconfig into a shellscript\-library, an init\-file and a configuration file. Now it's possible to de\-/activate the modules of grml\-autoconfig without touching the source itself. As an example:
+I just worked on grml\-autoconfig which is a separate package since 5th of June. I split grml\-autoconfig into a shellscript\-library, an init\-file and a configuration file. Now it's possible to de\-/activate the modules of grml\-autoconfig without touching the source itself. As an example:
 
 ```
 % cat /etc/grml/autoconfig.config

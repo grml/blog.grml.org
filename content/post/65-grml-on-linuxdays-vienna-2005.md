@@ -12,9 +12,9 @@ Jimmy and me were at [Linuxdays Vienna 2005](http://wien.linuxwochen.at/) on thu
 
 I had another talk about grml: [![*](http://dufo.tugraz.at/wlt05/.tmp/150x150/2005-05-27_08h13_IMG_1060.jpg)](http://dufo.tugraz.at/wlt05/.tmp/2005-05-27_08h13_IMG_1060.jpg.html)
 
-The german slides are available online: [grml\-wien05\.pdf \[454k]](https://grml.org/slides/grml-wien05.pdf).
+The German slides are available online: [grml\-wien05\.pdf \[454k]](https://grml.org/slides/grml-wien05.pdf).
 
-A more detailed, german report about the event is available[in my personal blog](http://www.michael-prokop.at/blog/index.php?p=365).
+A more detailed, German report about the event is available[in my personal blog](http://www.michael-prokop.at/blog/index.php?p=365).
 
 BTW: I won [the hacktivity show on friday evening](http://www.linuxwochen.at/cgi-bin/index?id=100001054) and now I'm proud owner of a SuSE box. 8\-)
 

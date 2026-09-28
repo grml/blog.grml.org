@@ -10,4 +10,4 @@ title: grml-small in Linux-User 2006/10
 ---
 [![Linux User 2006/10 Bootsplash](/images/bootscreen.serendipityThumb.png)](http://www.linux-user.de/ausgabe/2006/10/201-heft-dvd/bootscreen.png)
 
-grml\-small 0\.2 is shipped with [the german Linux\-User magazin](http://www.linux-user.de/), [edition 2006/10](http://www.linux-user.de/ausgabe/2006/10/208-livesysteme/index.html).
+grml\-small 0\.2 is shipped with [the German Linux\-User magazin](http://www.linux-user.de/), [edition 2006/10](http://www.linux-user.de/ausgabe/2006/10/208-livesysteme/index.html).

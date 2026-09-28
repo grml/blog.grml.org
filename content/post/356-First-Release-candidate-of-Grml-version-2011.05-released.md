@@ -8,7 +8,7 @@ slug: 356-First-Release-candidate-of-Grml-version-2011.05-released
 title: First Release candidate of Grml version 2011.05 released
 
 ---
-We are proud to announce the first release canidate of the upcoming
+We are proud to announce the first release candidate of the upcoming
 version 2011\.05, code\-named "Just Mari"!
   
   

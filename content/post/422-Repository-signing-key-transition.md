@@ -7,7 +7,7 @@ slug: 422-Repository-signing-key-transition
 title: New signing key for deb.grml.org repositories
 
 ---
-Starting today, our [package respositories on https://deb.grml.org/](https://grml.org/files/) are signed with a new key.
+Starting today, our [package repositories on https://deb.grml.org/](https://grml.org/files/) are signed with a new key.
 
 With input and feedback from the community, especially from anarcat and Guillem Jover, we have chosen ECC keys, specifically ed25519.
 

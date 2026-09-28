@@ -9,7 +9,7 @@ title: 'grml: laptop optimization - grml-laptop'
 
 ---
 
-Hardware recognition of grml is quite stable. But there exist are some laptops which require deep woodo and magic to work as intented to. Some laptops provide additional hotkeys and specific resolutions which might not work right out\-of\-the\-box. Therefore I just created the package grml\-laptop:
+Hardware recognition of grml is quite stable. But there exist are some laptops which require deep voodoo and magic to work as intended to. Some laptops provide additional hotkeys and specific resolutions which might not work right out\-of\-the\-box. Therefore I just created the package grml\-laptop:
 
 > grml provides a hardware recognition system right out  
 >  of the box. But some laptops provide special functions  
