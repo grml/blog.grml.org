@@ -23,12 +23,12 @@ Stuff I learned at the event:
 * xscreensaver has a nice ['switch user' feature](http://www.jwz.org/xscreensaver/faq.html#logout-button) for gdm\-users (thanks, koki)
 * Decr\_Console and Incr\_Console work out\-of\-the\-box on Debian and grml: just press alt\-cursor\-left and alt\-cursor\-right to switch between plain consoles (thanks for the hint, Sepp)
 * [SubMaster](http://www.rocklinux.org/wiki/SubMaster) rocks. [Clifford](http://www.clifford.at/) showed me how it's used at RockLinux and I'm really impressed.
-* ice\-spray and grml can rescue harddisks (thanks to *anonym*, please contact me if you read this line)
+* ice\-spray and grml can rescue harddisks (thanks to *anonymous*, please contact me if you read this line)
 * [Maschu\-maschu](http://www.maschu-maschu.at/) really has the 'best Falafel in town' (at least it tastes like that ;))
 If you want to browse some pics, thank Sven Guckes for his online gallery of linuxdays vienna:
-* [first day](http://www.guckes.net/pics.2006.05-31/) (wednesday)
-* [second day](http://www.guckes.net/pics.2006.06-01/) (thursday)
-* [third day](http://www.guckes.net/pics.2006.06-02/) (friday)
-I really enjoyed the event. The only bad news: I got ill in the night to friday, seems like a small burn\-out hit me. :\-(
+* [first day](http://www.guckes.net/pics.2006.05-31/) (Wednesday)
+* [second day](http://www.guckes.net/pics.2006.06-01/) (Thursday)
+* [third day](http://www.guckes.net/pics.2006.06-02/) (Friday)
+I really enjoyed the event. The only bad news: I got ill in the night to Friday, seems like a small burn\-out hit me. :\-(
 
 

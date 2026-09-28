@@ -12,4 +12,4 @@ I just installed [XPDE](http://www.xpde.com/) in the grml\-chroot:
 
 ![](http://www.xpde.com/shots/startmenu_small.png)
 
-It's awfull rocking! There is not enough place on the grml\-ISO so I deleted all the TeX\-stuff on grml. Sorry for that, guys \- but grml 0\.4 will provide XPDE!
+It's awful rocking! There is not enough place on the grml\-ISO so I deleted all the TeX\-stuff on grml. Sorry for that, guys \- but grml 0\.4 will provide XPDE!

@@ -20,6 +20,6 @@ To install a plain Debian System into a raw image you can just run:
 grml-debootstrap --password root-pw --vmfile --vmsize 3G --target ./squeeze.img
 ```  
 
-This will set the root pasword to `root-pw`, install openssh and the latest kernel package, create /etc/fstab with the necessary entries and configure the bootloader for your virtualized system.
+This will set the root password to `root-pw`, install openssh and the latest kernel package, create /etc/fstab with the necessary entries and configure the bootloader for your virtualized system.
 
 If you want to customize or extend grml\-debootstrap have a look at [the manpage](https://grml.org/grml-debootstrap/) or look at the scripts and package definitions in `/etc/debootstrap`.

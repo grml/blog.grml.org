@@ -8,7 +8,7 @@ slug: 160-grml-develrelease-0.7-5
 title: grml develrelease 0.7-5
 
 ---
-Last wednesday I uploaded the new grml develrelease 0\.7\-5\. Quoting the changelog:
+Last Wednesday I uploaded the new grml develrelease 0\.7\-5\. Quoting the changelog:
 
 ```
 * 2.6.17-grml:

@@ -17,6 +17,6 @@ At the [grml booth at FrOSCon]({{< relref "316-Event-grml-at-FrOSCon-2009" >}}) 
 * Christian Bricart: ship libsmbios\-bin for flashing BIOS
 
 The winner (Sebastian Harl) will receive a special grml USB pen and a copy of the
-[german LinuxUser magazine edition (2009/08\)]({{< relref "314-Grml-2009.05-LinuxUser-Edition" >}}) featuring the Grml\-DVD. Places 2 to 5 receive a copy of the german LinuxUser magazine edition (2009/08\).
+[German LinuxUser magazine edition (2009/08\)]({{< relref "314-Grml-2009.05-LinuxUser-Edition" >}}) featuring the Grml\-DVD. Places 2 to 5 receive a copy of the German LinuxUser magazine edition (2009/08\).
 
 Thanks to all contributors for participating and hope to see you at [FrOSCon 2010](http://froscon.org/)!

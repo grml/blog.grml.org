@@ -8,4 +8,4 @@ slug: 3-Pictures-from-Linuxday-Klagenfurt
 title: Pictures from Linuxday Klagenfurt
 
 ---
-Gebi, Jimmy, Worf and me were on [Linuxday Klagenfurt 2005](http://linuxday2005.uni-klu.ac.at/) on 22nd of february. A [webgallery is available online](http://lehrer.htl-klu.at/~ghoelzl/webalbum/index.php?album=Linuxday_2005%2F).
+Gebi, Jimmy, Worf and me were on [Linuxday Klagenfurt 2005](http://linuxday2005.uni-klu.ac.at/) on 22nd of February. A [webgallery is available online](http://lehrer.htl-klu.at/~ghoelzl/webalbum/index.php?album=Linuxday_2005%2F).

@@ -16,4 +16,4 @@ Release candidate 2 of grml 2008\.11 is available via [debian.netcologne.de/www.
 * Some minor updates and fixes in grml related scripts and configurations.
 * Updated documentation.
 
-The stable release is expected to be released on this weekend (end of november), so please grab rc2 and give it a try.
+The stable release is expected to be released on this weekend (end of November), so please grab rc2 and give it a try.

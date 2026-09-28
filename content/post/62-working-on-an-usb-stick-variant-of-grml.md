@@ -14,4 +14,4 @@ Yesterday I've been working for an USB\-stick variant of grml. I could reduce th
 % ls -lah grml_0.4b.iso
 -rw-r--r--  1 root root 307M 2005-05-16 12:40 grml_0.4b.iso
 ```
-All the documentation, LaTeX and stuff like emacs had to leave. Booting still works as intented to, even X is running. ;\-) Now I've to reduce the iso for another 51 MB so we can provide a grml\-ISO for a 256 MB stick.
+All the documentation, LaTeX and stuff like emacs had to leave. Booting still works as intended to, even X is running. ;\-) Now I've to reduce the iso for another 51 MB so we can provide a grml\-ISO for a 256 MB stick.

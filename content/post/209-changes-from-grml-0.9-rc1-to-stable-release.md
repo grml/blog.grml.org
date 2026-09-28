@@ -8,7 +8,7 @@ slug: 209-changes-from-grml-0.9-rc1-to-stable-release
 title: changes from grml 0.9-rc1 to stable release
 
 ---
-The final release is on its way, should be available on 6th of december. JFTR:
+The final release is on its way, should be available on 6th of December. JFTR:
 
 ```
 Changes from grml 0.9-rc1 to stable release:

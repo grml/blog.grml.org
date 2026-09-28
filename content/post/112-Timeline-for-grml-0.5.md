@@ -12,5 +12,5 @@ The latest build of the grml\-kernel (2\.6\.13\-grml) has been integrated in the
 
 The timeline for the upcoming release (if everything works like intended):
 
-* \~15th of october: pre\-release grml 0\.4\-9: available for beta\-testers and developers; freeze of packages (no more updates, only fixes for grml\-packages); Notice: last chance to get your software and updates into the upcoming release!
-* \~24th of october: grml 0\.5 will be released
+* \~15th of October: pre\-release grml 0\.4\-9: available for beta\-testers and developers; freeze of packages (no more updates, only fixes for grml\-packages); Notice: last chance to get your software and updates into the upcoming release!
+* \~24th of October: grml 0\.5 will be released

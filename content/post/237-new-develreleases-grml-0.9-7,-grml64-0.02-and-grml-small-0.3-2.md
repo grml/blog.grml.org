@@ -64,7 +64,7 @@ Added packages since grml 0.9:
 =======================================================================
 Main changelog for grml64:
   * Tons of updates, fixes,.. updated Debian packages by 2007-04-15
-  * Added several 32bit compability libs, so now working 64<->32bit
+  * Added several 32bit compatibility libs, so now working 64<->32bit
     should work really fine.
   * Removed LaTeX, due to space reasons.
 =======================================================================

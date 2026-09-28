@@ -8,7 +8,7 @@ slug: 330-Results-from-developer-meeting
 title: Results from developer meeting
 
 ---
-We had a developer meeting in Graz on thursday and friday. We were working towards a new stable release:* new versions of grml\-debootstrap, grml\-live, grml2hd,... are available
+We had a developer meeting in Graz on Thursday and Friday. We were working towards a new stable release:* new versions of grml\-debootstrap, grml\-live, grml2hd,... are available
 * we've a working kernel 2\.6\.33, expect to find Debian packages in grml's repository within the next few days
 * we managed to close more than 100 issues in our bug tracking system over the last week
 

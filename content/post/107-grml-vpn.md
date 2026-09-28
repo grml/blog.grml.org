@@ -9,7 +9,7 @@ title: grml-vpn
 
 ---
 We just have a developer meeting in Graz and Gebi wrote a script
-namend grml\-vpn. grml\-vpn is a program to establish encrypted
+named grml\-vpn. grml\-vpn is a program to establish encrypted
 communication channels in a network. We just tested it and it really
 rocks. :\-) It's very easy to use, take a look at the usage example:
 Gebi (root@gebi) starts grml\-vpn on his laptop with key/passphrase 'test' and uses his and my ip for the encrypted communication channel:

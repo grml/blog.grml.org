@@ -20,6 +20,6 @@ Notes:
 * grub configuration does not provide artwork currently. I'd be happy if someone could contribute a nice bootsplash for grub at grml!
 * please do **not** use the testing version of grml2hd on your productive environment yet! It needs some further heavy testing before entering stable... any feedback is welcome of course.
 
-Oh, and another nifty feature within grml2hd: installation now uses root\=UUID by default. This feature requires an initrd/initramfs so we use initramfs by default now (a dialog less within grml2hd) but you can make sure booting your grml system always choses the right partition, no matter how you are booting your system (like via external usb device):
+Oh, and another nifty feature within grml2hd: installation now uses root\=UUID by default. This feature requires an initrd/initramfs so we use initramfs by default now (a dialog less within grml2hd) but you can make sure booting your grml system always chooses the right partition, no matter how you are booting your system (like via external usb device):
 
 [![screenshot of using root-uuid](/images/root-uuid.serendipityThumb.png)](/images/root-uuid.png)

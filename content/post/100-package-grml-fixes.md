@@ -8,10 +8,10 @@ slug: 100-package-grml-fixes
 title: package grml-fixes
 
 ---
-I just created a package namend grml\-fixes. From the package description:
+I just created a package named grml\-fixes. From the package description:
 
 > This package includes some fixes for the grml system.
 > There are for example some problems with (upstream/debian)
-> shell scripts and the zsh. Therefor this package fixes
+> shell scripts and the zsh. Therefore this package fixes
 > them until they are fixes upstream.
 Now we are again a step closer to the big goal to be once able to run 'apt\-get install grml' on a plain Debian system and get a full\-featured grml\-system out of it. :\-)
